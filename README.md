@@ -60,3 +60,9 @@ A solução foi dividida nas seguintes abas dentro da pasta de trabalho:
 Como projetos de dados estão sempre em evolução, algumas melhorias futuras podem incluir:
 * Migrar a modelagem destes dados para o **Power BI**, permitindo atualizações automatizadas e cruzamento com outras bases.
 * Utilizar **Python** para fazer um tratamento prévio (ETL) mais robusto caso a base de assinaturas escale em volume.
+
+---
+
+## 🧑‍💼 Contato
+
+[Linkedin](https://www.linkedin.com/in/anderson-ribeiro-carvalho)
